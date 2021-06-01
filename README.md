@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parth2002g
-- 👀 I’m interested in Python, Dta Science, Machine Learning
+- 👀 I’m interested in Python, Data Science, Machine Learning
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Projects based on Python
 - 📫 How to reach me, email me at parth2002g@gmail.com
